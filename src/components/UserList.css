@@ -1,0 +1,12 @@
+.user-card {
+  border: 1px solid black;
+  padding: 15px;
+  margin: 10px;
+  width: 220px;
+  border-radius: 8px;
+  background-color: #e3f2fd;
+}
+
+.user-card h3 {
+  color: darkgreen;
+}
