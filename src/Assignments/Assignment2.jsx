@@ -1,4 +1,4 @@
-import UserCard from ".../components/UserCard.jsx";
+import UserCard from "../components/UserCard.jsx";
 
 function Assignment2() {
   return (

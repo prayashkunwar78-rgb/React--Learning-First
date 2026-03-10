@@ -1,4 +1,4 @@
-import ProfileCard from ".../components/ProfileCard";
+import ProfileCard from "../components/ProfileCard";
 
 function Assignment1() {
   return (
